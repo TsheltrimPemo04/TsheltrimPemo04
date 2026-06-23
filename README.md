@@ -2,7 +2,7 @@
 
 **AI & Data Science Student | Frontend Developer | Technopreneur**
 
-I’m a Computer Science student specializing in Artificial Intelligence & Data Science, passionate about building AI solutions and user-focused web applications that create real impact.
+I’m a Computer Science Graduate specializing in Artificial Intelligence & Data Science, passionate about building AI solutions and user-focused web applications that create real impact.
 
 ---
 
