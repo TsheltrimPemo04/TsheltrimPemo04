@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tsheltrim Pemo</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=200&section=header&text=Tsheltrim%20Pemo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18" alt="Header"/>
+</p>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>, I'm Tsheltrim Pemo</h1>
 <h3 align="center">AI & Data Science Graduate · Frontend Developer · Technopreneur</h3>
 
 <p align="center">
@@ -73,6 +77,7 @@ I'm a Computer Science graduate specializing in **Artificial Intelligence & Data
 
 | | Achievement | Year |
 |---|---|---|
+| 🥇 | Show Me Your Agent Hackathon — **Winner** | 2026 |
 | 🥇 | GCIT × TashiCell Hackathon — **Winner** | 2022 |
 | 🥇 | Girls in ICT Project Showcase — **Winner** | 2024 |
 | 🥈 | Legal Aid Hackathon — **Runner-Up** | 2024 |
@@ -91,14 +96,21 @@ I'm a Computer Science graduate specializing in **Artificial Intelligence & Data
   <img src="https://streak-stats.demolab.com?user=TsheltrimPemo04&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TsheltrimPemo04&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsheltrimPemo04/TsheltrimPemo04/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/TsheltrimPemo04/TsheltrimPemo04/output/github-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
 
 <p align="center">
   <i>"Building technology that creates real impact."</i> ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer&animation=twinkling" alt="Footer"/>
 </p>
