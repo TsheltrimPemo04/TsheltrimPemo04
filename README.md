@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=200&section=header&text=Tsheltrim%20Pemo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18" alt="Header"/>
+  <img src="./assets/header.svg" width="100%" alt="Header"/>
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>, I'm Tsheltrim Pemo</h1>
@@ -112,5 +112,5 @@ I'm a Computer Science graduate specializing in **Artificial Intelligence & Data
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer&animation=twinkling" alt="Footer"/>
+  <img src="./assets/footer.svg" width="100%" alt="Footer"/>
 </p>
