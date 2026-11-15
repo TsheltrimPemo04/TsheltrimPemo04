@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Header"/>
+  <img src="./header.svg" width="100%" alt="Header"/>
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>, I'm Tsheltrim Pemo</h1>
-<h3 align="center">AI & Data Science Graduate · Frontend Developer · Technopreneur</h3>
+<h3 align="center">AI & Data Science · Frontend Developer · Technopreneur</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+AI+solutions+that+matter;RAG+%7C+LLMs+%7C+NLP;React+%26+Next.js+Developer;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
-  </a>
+  <img src="./typing.svg" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -112,5 +110,5 @@ I'm a Computer Science graduate specializing in **Artificial Intelligence & Data
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Footer"/>
+  <img src="./footer.svg" width="100%" alt="Footer"/>
 </p>
